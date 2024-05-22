@@ -1,0 +1,18 @@
+D:\Coding\Visual Studio\VS projects\Lab 21\bin\Debug\Lab 21.exe.config
+D:\Coding\Visual Studio\VS projects\Lab 21\bin\Debug\Lab 21.exe
+D:\Coding\Visual Studio\VS projects\Lab 21\bin\Debug\Lab 21.pdb
+D:\Coding\Visual Studio\VS projects\Lab 21\obj\Debug\Lab 21.csproj.AssemblyReference.cache
+D:\Coding\Visual Studio\VS projects\Lab 21\obj\Debug\Lab_21.Properties.Resources.resources
+D:\Coding\Visual Studio\VS projects\Lab 21\obj\Debug\Lab 21.csproj.GenerateResource.cache
+D:\Coding\Visual Studio\VS projects\Lab 21\obj\Debug\Lab 21.csproj.CoreCompileInputs.cache
+D:\Coding\Visual Studio\VS projects\Lab 21\obj\Debug\Lab 21.exe
+D:\Coding\Visual Studio\VS projects\Lab 21\obj\Debug\Lab 21.pdb
+D:\University\2 курс\4 семестр\ООП\Не мої\Лутицький\Lab 21\bin\Debug\Lab 21.exe.config
+D:\University\2 курс\4 семестр\ООП\Не мої\Лутицький\Lab 21\bin\Debug\Lab 21.exe
+D:\University\2 курс\4 семестр\ООП\Не мої\Лутицький\Lab 21\bin\Debug\Lab 21.pdb
+D:\University\2 курс\4 семестр\ООП\Не мої\Лутицький\Lab 21\obj\Debug\Lab 21.csproj.AssemblyReference.cache
+D:\University\2 курс\4 семестр\ООП\Не мої\Лутицький\Lab 21\obj\Debug\Lab_21.Properties.Resources.resources
+D:\University\2 курс\4 семестр\ООП\Не мої\Лутицький\Lab 21\obj\Debug\Lab 21.csproj.GenerateResource.cache
+D:\University\2 курс\4 семестр\ООП\Не мої\Лутицький\Lab 21\obj\Debug\Lab 21.csproj.CoreCompileInputs.cache
+D:\University\2 курс\4 семестр\ООП\Не мої\Лутицький\Lab 21\obj\Debug\Lab 21.exe
+D:\University\2 курс\4 семестр\ООП\Не мої\Лутицький\Lab 21\obj\Debug\Lab 21.pdb
